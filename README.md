@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coreyholt. 
-- 🐻 Bear with me. I will update this soon. 
+- 🐻 Bear with me. I'll sort this out soon! 
 
 <!---
 coreyholt/coreyholt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
