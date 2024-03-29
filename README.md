@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @coreyholt. 
-- 🐻 Bear with me. I need to add more public repositories! 
+- 👋 Hi
 
 <!---
 coreyholt/coreyholt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
